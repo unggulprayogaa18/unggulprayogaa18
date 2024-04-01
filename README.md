@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 🔭 Hello I'm yoga <br>👯 Right now I am still studying at university, <br>💬 Let's be friends and build relationships
 
 
