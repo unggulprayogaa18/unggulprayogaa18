@@ -1,47 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Yoga</title>
-    <style>
-        /* Animasi gelombang CSS */
-        .wave-container {
-            position: relative;
-            width: 100%;
-            height: 150px; /* Sesuaikan dengan tinggi gelombang yang diinginkan */
-            overflow: hidden;
-        }
-
-        .wave {
-            position: absolute;
-            width: 200%;
-            height: 100%;
-            background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.1) 100%);
-            bottom: 0;
-            left: 0;
-            animation: wave-animation 2s infinite linear;
-        }
-
-        @keyframes wave-animation {
-            0% {
-                transform: translateX(0) translateZ(0) scaleY(1);
-            }
-            50% {
-                transform: translateX(-50%) translateZ(0) scaleY(0.8);
-            }
-            100% {
-                transform: translateX(-100%) translateZ(0) scaleY(1);
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="wave-container">
-        <div class="wave"></div>
-    </div>
-
-
 # 👨‍💻 About Me:
 🔭 Hello I'm yoga <br>👯 Right now I am still studying at university, <br>💬 Let's be friends and build relationships
 
@@ -59,5 +15,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</body>
-</html>
+
