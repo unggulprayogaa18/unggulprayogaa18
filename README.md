@@ -32,6 +32,11 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Blockchain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=blockchain&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
