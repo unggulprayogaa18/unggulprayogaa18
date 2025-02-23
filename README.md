@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 Hello I'm Yoga <br>👯 Right now I am still studying at university, <br>💬 Let's be friends and build relationships
+🔭 Hello I'm yoga <br>👯 Right now I am still studying at university, <br>💬 Let's be friends and build relationships
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prayoga_17s/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puput-unggul-prayoga-533819278/?originalSubdomain=id)
@@ -13,8 +13,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Cloud](https://img.shields.io/badge/cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![HTML](https://img.shields.io/badge/html-%2343853D.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,9 +28,12 @@
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Blockchain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=blockchain&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
