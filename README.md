@@ -1,4 +1,4 @@
-<img src="https://github.com/unggulprayogaa18/unggulprayogaa18/capture.PNG" alt=" GitHub README header image">
+<img src="https://github.com/unggulprayogaa18/unggulprayogaa18/Capture.PNG" alt=" GitHub README header image">
 
 # 👨‍💻 About Me:
 🔭 Hello I'm yoga <br>👯 Right now I am still studying at university, <br>💬 Let's be friends and build relationships
