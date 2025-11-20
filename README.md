@@ -20,7 +20,7 @@
   </a>
   
   ---
-bisa ga di bagian ini di rombak dan di percantik, jadi modern gitu
+
 
 
   # 💻 Tech Stack
@@ -128,46 +128,4 @@ bisa ga di bagian ini di rombak dan di percantik, jadi modern gitu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-<h2 align="center">🧩 Metode & Arsitektur Fullstack Development</h2>
 
-<table align="center" style="width:90%;border-collapse:collapse;border-radius:12px;overflow:hidden;font-size:16px;">
-  <tr style="background:#1B8DBE;color:white;text-align:center;">
-    <th style="padding:12px;">📌 Kategori</th>
-    <th style="padding:12px;">🧠 Metode / Arsitektur</th>
-  </tr>
-
-  <tr style="background:#f3f6fa;">
-    <td style="padding:12px;">API Communication</td>
-    <td style="padding:12px;">REST API, GraphQL</td>
-  </tr>
-
-  <tr style="background:white;">
-    <td style="padding:12px;">Design Pattern</td>
-    <td style="padding:12px;">MVC (Model–View–Controller)</td>
-  </tr>
-
-  <tr style="background:#f3f6fa;">
-    <td style="padding:12px;">App Structure</td>
-    <td style="padding:12px;">Client–Server Architecture</td>
-  </tr>
-
-  <tr style="background:white;">
-    <td style="padding:12px;">Frontend Approach</td>
-    <td style="padding:12px;">Single Page Application (SPA)</td>
-  </tr>
-
-  <tr style="background:#f3f6fa;">
-    <td style="padding:12px;">Backend Structure</td>
-    <td style="padding:12px;">Microservices Architecture</td>
-  </tr>
-
-  <tr style="background:white;">
-    <td style="padding:12px;">Rendering Model</td>
-    <td style="padding:12px;">Server-Side Rendering (SSR)</td>
-  </tr>
-
-  <tr style="background:#f3f6fa;">
-    <td style="padding:12px;">Fullstack Framework</td>
-    <td style="padding:12px;">Next.js, Remix, Inertia.js, SvelteKit</td>
-  </tr>
-</table>
