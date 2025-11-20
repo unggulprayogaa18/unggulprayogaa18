@@ -12,13 +12,12 @@
   <a href="https://www.instagram.com/prayoga_25s/?hl=en">
     <img src="https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/yvite_invitation/">
-    <img src="https://img.shields.io/badge/Instagram_Business-CC2366?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/yoga-unggul-prayoga-533819278/?originalSubdomain=id">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  <a href="https://www.instagram.com/yvite_invitation/">
+    <img src="https://img.shields.io/badge/Instagram_Business-CC2366?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   ---
 
   # 💻 Tech Stack
