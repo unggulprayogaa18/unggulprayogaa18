@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/unggulprayogaa18/unggulprayogaa18/main/myfoto.jpg"  alt="GitHub README header image">
+  <img src="https://raw.githubusercontent.com/unggulprayogaa18/unggulprayogaa18/main/myfoto.jpg" alt="GitHub README header image">
 
   # 👨‍💻 About Me
   🔭 Hello I'm Yoga  
@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/yvite_invitation/">
-    <img src="https://img.shields.io/badge/Instagram_Business-CC2366?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram_Business-D61A4A?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
 
 ---
-<div align="center">
+</div>
+
 # 💻 Tech Stack
 
 ## Programming Languages
@@ -37,8 +37,6 @@
 <img src="https://img.shields.io/badge/Kotlin-06203B?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-06203B?style=for-the-badge&logo=ruby&logoColor=white"/>
 
-
-
 ---
 
 ## Backend & API
@@ -48,11 +46,11 @@
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=43853D"/>
 <img src="https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Hapi.js-FFFFFF?style=for-the-badge&logo=hapi&logoColor=FFDD00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=092E20"/>
 <img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logo=api&logoColor=02569B"/>
 <img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=websocket&logoColor=4A90E2"/>
-
-
-
 
 ---
 
@@ -67,16 +65,12 @@
 <img src="https://img.shields.io/badge/Bootstrap-06203B?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/Bulma-06203B?style=for-the-badge&logo=bulma&logoColor=00D1B2"/>
 
-
-
-
 ---
 
 ## Mobile Development
 
 <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=02569B"/>
 <img src="https://img.shields.io/badge/Android_Studio-FFFFFF?style=for-the-badge&logo=android-studio&logoColor=3DDC84"/>
-
 
 ---
 
@@ -87,7 +81,6 @@
 <img src="https://img.shields.io/badge/SQLite-06203B?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
 <img src="https://img.shields.io/badge/MongoDB-06203B?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Firebase-06203B?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
 
 ---
 
@@ -104,14 +97,11 @@
 <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=009639"/>
 
-
 ---
 
-</div>
 <div align="center">
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-
