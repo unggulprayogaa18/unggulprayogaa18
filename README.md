@@ -21,7 +21,7 @@
   
 
 ---
-
+<div align="center">
 # 💻 Tech Stack
 
 ## Programming Languages
@@ -107,7 +107,7 @@
 
 ---
 
-
+</div>
 <div align="center">
 
 ### ✍️ Random Dev Quote  
