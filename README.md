@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Instagram_Business-CC2366?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  ---
 
 ---
 
