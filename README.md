@@ -21,7 +21,7 @@
 
 ---
 </div>
-
+<div align="center">
 # 💻 Tech Stack
 
 ## Programming Languages
@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=009639"/>
 
 ---
-
+</div>
 <div align="center">
 
 ### ✍️ Random Dev Quote  
