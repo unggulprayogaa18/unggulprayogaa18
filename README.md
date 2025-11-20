@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/unggulprayogaa18/unggulprayogaa18/main/myfoto.jpg" width="300" alt="GitHub README header image">
+  <img src="https://raw.githubusercontent.com/unggulprayogaa18/unggulprayogaa18/main/myfoto.jpg"  alt="GitHub README header image">
 
   # 👨‍💻 About Me
   🔭 Hello I'm Yoga  
