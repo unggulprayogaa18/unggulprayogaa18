@@ -75,7 +75,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-1B8DBE?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-1B8DBE?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-0A1F3A?style=for-the-badge&logo=nginx&logoColor=white)
 
