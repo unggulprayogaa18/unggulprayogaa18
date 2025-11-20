@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Kotlin-06203B?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-06203B?style=for-the-badge&logo=ruby&logoColor=white"/>
 
-</div>
+
 
 ---
 
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/WebSocket-FFFFFF?style=for-the-badge&logo=websocket&logoColor=4A90E2"/>
 
 
-</div>
+
 
 ---
 
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/Bulma-06203B?style=for-the-badge&logo=bulma&logoColor=00D1B2"/>
 
 
-</div>
+
 
 ---
 
