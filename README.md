@@ -101,7 +101,7 @@
 
 ---
 
-## <div align="center">DevOps & Cloud</div>
+## <div align="center">Technology</div>
 
 <div align="center">
 
